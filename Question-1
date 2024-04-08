@@ -4,7 +4,7 @@ Query:  use MongoDBTask
 Inserting Document into products collection: 
 Query:  db.products.insertMany([{},{}])
 
-1. Find all the information about each products
+1. Find all the information about each products.
 
 Query : db.products.find()
 
